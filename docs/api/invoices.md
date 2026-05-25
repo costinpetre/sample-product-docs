@@ -6,7 +6,7 @@
 
 ## List invoices
 
-`GET /v2/invoices`
+`GET /v2/invoiSces`
 
 Returns a paginated list of invoices for the authenticated account.
 
